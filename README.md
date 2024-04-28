@@ -1,7 +1,5 @@
 # Rusty Ray Tracer
 
-![Rusty Ray Tracer Demo](demo.png)
-
 ## Description
 
 Rusty Ray Tracer is a ray tracing renderer implemented in Rust. It simulates the behavior of light as it interacts with objects in a scene, producing realistic images by tracing the path of rays of light. This project serves as an educational tool to understand the principles of ray tracing and computer graphics.
